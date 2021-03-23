@@ -1,0 +1,14 @@
+version: 0.2
+
+phases:
+  build:
+    commands:
+      - echo Build Starting on `date`
+      - chmod +x ./demo/mvnw
+      - cd ./demo
+      - ./mvnw clean
+      - ./mvnw package
+  post_build:
+    commands:
+      - echo $(basename ./build/libs/*.jar)
+      - pwd
