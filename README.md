@@ -1,2 +1,2 @@
 # hello-world-aws-codebuild
-aws codebuild 테스트 하기위한 용도의 hello world 프로젝트 
+aws codebuild 테스트하기 위한 용도의 hello world 프로젝트 
