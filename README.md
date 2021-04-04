@@ -7,4 +7,4 @@ AWS CodeCommit -> AWS CodeBuild -> AWS CodeDeploy
 주목할 파일은 appspec.yml, buildspec.yml, script/* 입니다 
 
 AWS 서비스 세팅은 아래 블로그 링크를 참고해주세요   
-Link Here ( 내부문서화는 해두었는데 블로그 이전중이라 나중에 업데이트 할게요 ^^ ) 
+( 내부문서화는 해두었는데 블로그 이전중이라 나중에 업데이트 할게요 ^^ ) 
